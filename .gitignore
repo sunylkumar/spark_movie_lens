@@ -1,0 +1,6 @@
+.*/
+ip_files/
+metastore_db/
+ml_small/
+*.txt
+*.log
